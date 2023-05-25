@@ -1,0 +1,8 @@
+{
+    "displayName": "Doomsday",
+    "bpm": 150.0,
+    "icon": "face",
+    "color": "#000000",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}

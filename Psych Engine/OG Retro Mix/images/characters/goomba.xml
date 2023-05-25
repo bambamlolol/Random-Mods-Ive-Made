@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goomba.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goomba down0000" x="72" y="198" width="114" height="10" frameX="0" frameY="-44" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba down0001" x="72" y="198" width="114" height="10" frameX="0" frameY="-44" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba down0002" x="96" y="144" width="102" height="54" frameX="-6" frameY="0" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba down0003" x="96" y="144" width="102" height="54" frameX="-6" frameY="0" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0000" x="72" y="198" width="114" height="10" frameX="0" frameY="-62" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0001" x="72" y="198" width="114" height="10" frameX="0" frameY="-62" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0002" x="72" y="198" width="114" height="10" frameX="0" frameY="-62" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0003" x="96" y="144" width="102" height="54" frameX="-6" frameY="-18" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0004" x="96" y="144" width="102" height="54" frameX="-6" frameY="-18" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0005" x="96" y="144" width="102" height="54" frameX="-6" frameY="-18" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0006" x="0" y="177" width="72" height="72" frameX="-21" frameY="0" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0007" x="0" y="177" width="72" height="72" frameX="-21" frameY="0" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba idle0008" x="0" y="177" width="72" height="72" frameX="-21" frameY="0" frameWidth="114" frameHeight="72"/>
+	<SubTexture name="goomba left0000" x="72" y="0" width="89" height="72"/>
+	<SubTexture name="goomba left0001" x="72" y="0" width="89" height="72"/>
+	<SubTexture name="goomba left0002" x="161" y="0" width="82" height="72" frameX="-7" frameY="0" frameWidth="89" frameHeight="72"/>
+	<SubTexture name="goomba left0003" x="161" y="0" width="82" height="72" frameX="-7" frameY="0" frameWidth="89" frameHeight="72"/>
+	<SubTexture name="goomba right0000" x="0" y="105" width="96" height="72"/>
+	<SubTexture name="goomba right0001" x="0" y="105" width="96" height="72"/>
+	<SubTexture name="goomba right0002" x="96" y="72" width="85" height="72" frameX="0" frameY="0" frameWidth="96" frameHeight="72"/>
+	<SubTexture name="goomba right0003" x="96" y="72" width="85" height="72" frameX="0" frameY="0" frameWidth="96" frameHeight="72"/>
+	<SubTexture name="goomba up0000" x="198" y="72" width="42" height="126" frameX="-15" frameY="0" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="goomba up0001" x="198" y="72" width="42" height="126" frameX="-15" frameY="0" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="goomba up0002" x="0" y="0" width="72" height="105" frameX="0" frameY="-20" frameWidth="72" frameHeight="126"/>
+	<SubTexture name="goomba up0003" x="0" y="0" width="72" height="105" frameX="0" frameY="-20" frameWidth="72" frameHeight="126"/>
+</TextureAtlas>
